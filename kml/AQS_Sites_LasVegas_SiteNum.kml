@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="5013">
+	<Style id="5014">
+		<LabelStyle id="5015">
+			<color>ff0000ff</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark id="1">
+		<name>0043</name>
+		<styleUrl>#5014</styleUrl>
+		<Point id="1">
+			<coordinates>-115.253333,36.106389,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2">
+		<name>0071</name>
+		<styleUrl>#5014</styleUrl>
+		<Point id="2">
+			<coordinates>-115.263038,36.16976,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="3">
+		<name>0073</name>
+		<styleUrl>#5014</styleUrl>
+		<Point id="3">
+			<coordinates>-115.332728,36.173415,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="4">
+		<name>0075</name>
+		<styleUrl>#5014</styleUrl>
+		<Point id="4">
+			<coordinates>-115.238282,36.270592,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="5">
+		<name>0298</name>
+		<styleUrl>#5014</styleUrl>
+		<Point id="5">
+			<coordinates>-115.052942,36.048705,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="6">
+		<name>0540</name>
+		<styleUrl>#5014</styleUrl>
+		<Point id="6">
+			<coordinates>-115.078742,36.141875,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="7">
+		<name>0561</name>
+		<styleUrl>#5014</styleUrl>
+		<Point id="7">
+			<coordinates>-115.11393,36.163962,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="8">
+		<name>1019</name>
+		<styleUrl>#5014</styleUrl>
+		<Point id="8">
+			<coordinates>-115.357087,35.785665,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="9">
+		<name>1501</name>
+		<styleUrl>#5014</styleUrl>
+		<Point id="9">
+			<coordinates>-115.175654,36.139707,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
