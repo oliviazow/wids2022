@@ -231,5 +231,5 @@ def test():
     print(full_data.shape)
 
 
-if __name__ == "__main__":
-    test()
+# if __name__ == "__main__":
+#     test()

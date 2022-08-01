@@ -203,7 +203,7 @@ def get_data_for_years(aqs_id='32-003-1501', param='88101', param_alias='PM25', 
             # print(param_alias, len(res))
             data.append(res)
         except Exception as e:
-            start_year += 1
+            start_year = year
     if data:
         data = pd.concat(data)
         return data, start_year
